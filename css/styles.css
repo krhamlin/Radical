@@ -4,4 +4,23 @@ h1 {
 
 img {
 	height: 15em;
+	border-radius: 15%;
+	padding: 20px;
+}
+
+div {
+	padding: 50px;
+	text-align: center;
+}
+
+ol {
+	background: #C4FD67;
+	border-radius: 35%;
+	width: 300px;
+	padding: 50px;
+	font-size: 2em;
+}
+
+.paragraph {
+	text-align: center;
 }
