@@ -1,11 +1,15 @@
 h1 {
 	text-align: center;
+	background: #7BCFE9;
+	font-size: 3em;
+	font-family: 'Bree Serif', serif;
 }
 
 img {
 	height: 15em;
 	border-radius: 15%;
 	padding: 20px;
+	border: 2px solid #000;
 }
 
 div {
@@ -13,14 +17,60 @@ div {
 	text-align: center;
 }
 
+a {
+	font-size: 2em;
+	background: #888;
+	border-radius: 100%
+}
+
 ol {
 	background: #C4FD67;
-	border-radius: 35%;
-	width: 300px;
-	padding: 50px;
+	border-radius: 30%;
+	width: 15%;
+	padding: 2%;
 	font-size: 2em;
+	font-family: 'Raleway', sans-serif;
+}
+
+.list {
+	padding-left: 50%;
+	padding: 5%;
+	margin-left: 38%;
+}
+
+table {
+	padding: 20px;
+	background: #E9957B;
+	float: center;
+	font-family: 'Raleway', sans-serif;
+}
+
+.dropcap {
+	font-size: 3em;
+	color: blue;
+	float: left;
+	padding: .1em;
 }
 
 .paragraph {
+	text-align: center;
+	display: inline-block;
+	width: 45%;
+	padding-left: 2.5%;
+}
+
+.fade {
+   opacity: .5;
+   }
+
+   .fade:hover {
+      opacity: 1;
+      }
+
+p {
+	font-family: 'Raleway', sans-serif;
+}
+
+footer{
 	text-align: center;
 }
